@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Moha2005269/agentgo"><img src="assets/agentgo.svg" width="100%" alt="AgentGo, the browser your agent drives. Solved 22 of 24 benchmark tasks against 19 for browser-use and 18 for Playwright MCP."></a>
+  <a href="https://github.com/Moha2005269/agentgo"><img src="assets/agentgo.svg" width="100%" alt="AgentGo, the browser your agent drives. Solved 37 of 37 benchmark tasks against 35 for browser-use and 31 for Playwright MCP."></a>
 </p>
 
 <p align="center">
