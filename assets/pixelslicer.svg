@@ -11,5 +11,5 @@
 @keyframes blink{50%{opacity:.15}}
 .float{animation:float 3.2s ease-in-out infinite}
 @keyframes float{50%{transform:translateY(-8px)}}
-@media (prefers-reduced-motion:reduce){.fade,.grow,.blink,.float,.tick{animation:none}}
+@media (prefers-reduced-motion:reduce){.fade,.grow,.blink,.float,.tick,.caret{animation:none}.type{animation:none;transform:translateX(2000px)}}
 </style><clipPath id="r"><rect width="384" height="250" rx="20"/></clipPath><g clip-path="url(#r)"><rect width="384" height="250" fill="#F3EDE3"/><text x="28" y="46" class="p up" font-size="13" fill="#F05A16" font-weight="600" text-anchor="start" >05 / Tool</text><text x="28" y="104" class="m" font-size="38" fill="#0F0D0B" font-weight="800" text-anchor="start" letter-spacing="-1.5">PixelSlicer</text><text x="28" y="142" class="s" font-size="21" fill="#0F0D0B" text-anchor="start" >Sprite sheets in,</text><text x="28" y="168" class="s" font-size="21" fill="#0F0D0B" text-anchor="start" >animated GIFs out.</text><path d="M28 196H356" stroke="#0F0D0B" stroke-opacity=".15"/><text x="28" y="224" class="p up" font-size="12" fill="#8C8175" font-weight="500" text-anchor="start" >React · Canvas · Vercel</text></g></svg>
